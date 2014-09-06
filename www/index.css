@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+h1 {
+  font-size: 8em;
+}
+section:nth-child(odd) {
+  background-color: #ff532d;
+  color: #ffffff;
+}
+section:nth-child(even) {
+  background-color: #ffffff;
+  color: #939597;
+}
+#front-page {
+  text-align: center;
+}
+.sub-title {
+  font-size: 20%;
+}
